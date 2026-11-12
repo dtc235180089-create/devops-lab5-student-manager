@@ -1,3 +1,3 @@
-"# Student Manager" 
-"" 
-"?ng d?ng qu?n ly sinh vi�n - DevOps Lab 5" 
+# Student Manager
+
+**Version 1.0.0** — Phát triển bởi Nhóm A
